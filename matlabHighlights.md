@@ -2,6 +2,9 @@
 https://jp.mathworks.com/products/matlab/whatsnew.html
 を参照して書きました。
 
+　まだ全部見れていませんが、MATLABのリリースノートは[こちら](https://jp.mathworks.com/help/matlab/release-notes.html?rntext=&startrelease=R2019b&endrelease=R2019b&groupby=release&sortby=descending&searchHighlight=)にあります。意外にハイライト以外にも使えそうなのが多かったです。
+
+
 # ライブタスク
 https://jp.mathworks.com/help/matlab/release-notes.html#mw_d36791b1-b8cc-4145-b440-cc4becca73a9
 https://jp.mathworks.com/help/matlab/release-notes.html#mw_5b034a52-ea51-46de-831e-d4918f83e41e
@@ -42,4 +45,4 @@ https://jp.mathworks.com/help/matlab/release-notes.html#mw_945f14f4-10fa-4f11-ba
 # 16進数と2進数
 https://jp.mathworks.com/help/matlab/release-notes.html#mw_601d9180-2748-4660-a8d6-e0e1aed1d795
 
-　ヘキサデシマル表記とバイナリ表記が使えるようになりました。つまり、0xf1とか0b11010001とかみたいな書き方ができるようになりました。こちらも詳しくは[こちら](https://jp.mathworks.com/help/matlab/matlab_prog/specify-hexadecimal-and-binary-numbers.html)で。
+　ヘキサデシマル表記とバイナリ表記が使えるようになりました。0xf1とか0b11010001とかみたいな書き方です。こちらも詳しくは[こちら](https://jp.mathworks.com/help/matlab/matlab_prog/specify-hexadecimal-and-binary-numbers.html)で。
